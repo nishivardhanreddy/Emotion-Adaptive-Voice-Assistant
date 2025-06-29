@@ -1,0 +1,5 @@
+gradio
+whisper
+groq
+python-dotenv
+gtts
